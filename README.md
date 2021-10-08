@@ -1,0 +1,1 @@
+This is holics first git project
